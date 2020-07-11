@@ -10,7 +10,7 @@ on:
 env:
   FIRMWARE_URL: "https://static.cowtransfer.com/cloud-ad359ef4-aec9-4427-9fb7-1ea7cc4dfed9%2Fa93d2010-8760-4687-8ac2-54bf3cdf6e76%2Fopenwrt-bcm27xx-bcm2711-rpi-4-rootfs.tar.gz?t-s=1594469260277&t-c=1594469033996&attname=openwrt-bcm27xx-bcm2711-rpi-4-rootfs.tar.gz&attname=%E5%A5%B6%E7%89%9B%E5%BF%AB%E4%BC%A0.zip"
   REPOSITORY: ilovesuyy/openwrt
-  TAG: pi4
+  TAG: latest
 
 jobs:
   build:
